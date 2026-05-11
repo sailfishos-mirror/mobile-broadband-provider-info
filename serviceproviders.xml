@@ -7264,6 +7264,17 @@ conceived.
 
 <country code="ir">
 	<name>Iran</name>
+	<emergency-numbers>
+		<emergency-number number="110">
+			<callee type="police"/>
+		</emergency-number>
+		<emergency-number number="115">
+			<callee type="ambulance"/>
+		</emergency-number>
+		<emergency-number number="125">
+			<callee type="fire-brigade"/>
+		</emergency-number>
+	</emergency-numbers>
 	<provider>
 		<name>همراه اول</name>
 		<gsm>
