@@ -6867,6 +6867,17 @@ conceived.
 			<channels start="4382" end="4382"/>
 		</level>
 	</cbs>
+	<emergency-numbers>
+		<emergency-number number="100">
+			<callee type="police"/>
+		</emergency-number>
+		<emergency-number number="101">
+			<callee type="ambulance"/>
+		</emergency-number>
+		<emergency-number number="102">
+			<callee type="fire-brigade"/>
+		</emergency-number>
+	</emergency-numbers>
 	<provider>
 		<name>CellCom</name>
 		<gsm>
